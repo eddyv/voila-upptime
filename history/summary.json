@@ -40,17 +40,19 @@
     "url": "https://96d0-174-95-87-6.ngrok-free.app/",
     "icon": "https://icons.duckduckgo.com/ip3/96d0-174-95-87-6.ngrok-free.app.ico",
     "slug": "test-endpoint",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 114,
-    "timeWeek": 114,
-    "timeMonth": 114,
-    "timeYear": 114,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.06%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 100,
+    "timeDay": 100,
+    "timeWeek": 100,
+    "timeMonth": 100,
+    "timeYear": 100,
+    "dailyMinutesDown": {
+      "2024-01-21": 0
+    }
   }
 ]
