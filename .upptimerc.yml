@@ -1,21 +1,22 @@
 # Change these first
-owner: eddyv # Your GitHub organization or username, where this repository lives
-repo: voila-upptime # The name of this repository
+owner: voila-learning # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
 
 sites:
   - name: MetaLingo
     url: http://metalingo.ca/
   - name: MetaLingo - API
     url: https://api.metalingo.ca/actuator/health
+    __dangerous__body_down_if_text_missing: '"status":"UP"'
 
 assignes:
-  - eddyv
+  - Connected1Labs
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /voila-upptime
+  baseUrl: /upptime
   logoUrl: https://storage.googleapis.com/metalingo-dev/web-assets/home-page/logos/mainLogo.png
   name: MetaLingo
   introTitle: "**MetaLingo**"
