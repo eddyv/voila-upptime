@@ -4,19 +4,19 @@
     "url": "http://metalingo.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/metalingo.ca.ico",
     "slug": "meta-lingo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 353,
-    "timeDay": 277,
-    "timeWeek": 290,
-    "timeMonth": 353,
-    "timeYear": 353,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 351,
+    "timeDay": 303,
+    "timeWeek": 295,
+    "timeMonth": 351,
+    "timeYear": 351,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 23
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.metalingo.ca/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.metalingo.ca.ico",
     "slug": "meta-lingo-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 753,
-    "timeDay": 432,
-    "timeWeek": 660,
-    "timeMonth": 753,
-    "timeYear": 753,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 754,
+    "timeDay": 542,
+    "timeWeek": 671,
+    "timeMonth": 754,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 23
     }
   }
 ]
