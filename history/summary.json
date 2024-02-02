@@ -4,9 +4,9 @@
     "url": "http://metalingo.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/metalingo.ca.ico",
     "slug": "meta-lingo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,24 +15,28 @@
     "timeWeek": 290,
     "timeMonth": 353,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   },
   {
     "name": "MetaLingo - API",
     "url": "https://api.metalingo.ca/actuator/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.metalingo.ca.ico",
     "slug": "meta-lingo-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 717,
-    "timeWeek": 733,
-    "timeMonth": 791,
-    "timeYear": 791,
-    "dailyMinutesDown": {}
+    "time": 753,
+    "timeDay": 432,
+    "timeWeek": 660,
+    "timeMonth": 753,
+    "timeYear": 753,
+    "dailyMinutesDown": {
+      "2024-02-02": 0
+    }
   }
 ]
