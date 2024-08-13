@@ -1,7 +1,7 @@
 url: https://api.metalingo.ca/actuator/health
 status: down
 code: 503
-responseTime: 812
-lastUpdated: 2024-08-12T23:18:17.648Z
+responseTime: 808
+lastUpdated: 2024-08-13T23:16:40.715Z
 startTime: 2024-01-21T01:08:11.707Z
 generator: Upptime <https://github.com/upptime/upptime>
