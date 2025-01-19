@@ -1,7 +1,7 @@
 url: https://api.metalingo.ca/actuator/health
 status: up
 code: 200
-responseTime: 963
-lastUpdated: 2025-01-18T23:16:57.956Z
+responseTime: 978
+lastUpdated: 2025-01-19T23:16:47.813Z
 startTime: 2024-01-21T01:08:11.707Z
 generator: Upptime <https://github.com/upptime/upptime>
